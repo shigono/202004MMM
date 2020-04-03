@@ -1,5 +1,5 @@
 ### MMM研修 Chap.3 コード
-###   2020/04 Shigeru ONO
+###   2020/04/03 Shigeru ONO
 
 library(tidyverse)
 library(assertr)
@@ -7,7 +7,7 @@ library(patchwork)
 library(rgl)
 windowsFonts(MeiryoUI = "Meiryo UI")
 
-# サンプルデータの読込
+### サンプルデータの読込
 # 読込
 dfMansion <- read_csv("./Mansion.csv")
 
