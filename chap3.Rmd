@@ -6,6 +6,7 @@ output:
   html_document:
     toc: true
     toc_float: true
+output_dir: "docs"
 ---
 
 このページでは、株式会社インサイト・ファクトリー 2020年度社内研修「[マーケティング・ミックス・モデリング](http://elsur.jpn.org/202004MMM)」III章「回帰分析の基礎」のRコードを公開しています。
